@@ -2,7 +2,7 @@
 
 En este repositorio se incluyen los problemas que conforman el examen de recuperación de la materia de Desarrollo Backend II.
 
-Elaborado por: Cesar Francisco Ramos Leal / 20760438
+**Elaborado por:** Cesar Francisco Ramos Leal / 20760438
 
 ## Requerimientos
 
