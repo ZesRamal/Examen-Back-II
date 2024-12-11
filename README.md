@@ -20,7 +20,7 @@ En este repositorio se incluyen los problemas que conforman el examen de recuper
 git clone https://github.com/ZesRamal/Examen-Back-II.git
 ```
 
-- Una vez terminado podrás ingresar localmente a la carpeta recien creada con el mismo nombre del repositorio.
+- Una vez terminado podrás ingresar localmente a la carpeta recien creada con el mismo nombre del repositorio. Cada carpeta incluye la descripción del problema y su guía de ejecución.
 
 ## Índice
 
