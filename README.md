@@ -6,9 +6,9 @@ En este repositorio se incluyen los problemas que conforman el examen de recuper
 
 ## Requerimientos
 
-- Python 3.12.2 64 Bits
-- Docker version 27.1.1, build 6312585
-- git version 2.41.0.windows.1
+- Python 3.12.2 64 Bits [Descarga ⬇️](https://www.python.org/downloads/release/python-3122/) / [Guía de Instalación 📖](https://wiki.python.org/moin/BeginnersGuide/Download)
+- Docker [Guía de Instalación 📖](https://docs.docker.com/engine/install/)
+- Git [Guía de Instalación 📖](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Guía de Clonación de Repositorio
 
